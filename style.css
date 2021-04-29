@@ -1,6 +1,6 @@
 body
 {
-background-color: 	#808080;
+background-color: 	#C9A2BF;
 font-family: Verdana;
 font-size: 24px;
 color: white;
@@ -11,7 +11,7 @@ color: white;
 	padding-left: 10px;
 	padding-right: 10px;
 	padding-bottom:50px;
-	background-color: #C0C0C0;
+	background-color: #9F9FDF;
 	margin: auto;
     width: 1000px;
 }
@@ -50,7 +50,7 @@ color: white;
 	padding: 10px;
 	font-size: 12px;
 	text-align: center;
-    border: 3px solid blue;
+    border: 3px solid purple;
 	letter-spacing: 3px;
 }
 #topBar
@@ -60,7 +60,7 @@ color: white;
 	padding: 10px;
 	font-size: 18px;
 	text-align: center;
-    border: 3px solid blue;
+    border: 3px solid purple;
 	letter-spacing: 3px;
 	margin-bottom: 50px;
 }
